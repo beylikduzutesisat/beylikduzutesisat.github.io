@@ -8,7 +8,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
-body{font-family:Arial;line-height:1.6;max-width:900px;margin:auto;padding:20px}
+body{font-family:Arial;line-height:1.6;max-width:900px;margin:auto;padding:20px}padding-bottom:100px;
+
 .fixed-bar{
 position:fixed;bottom:0;left:0;width:100%;background:#fff;
 display:flex;box-shadow:0 -2px 10px rgba(0,0,0,.2);z-index:9999
@@ -604,11 +605,38 @@ Beylikdüzü’nün tüm mahallelerinde 7/24 su tesisatçısı hizmeti veriyoruz
 Su kaçağı tespiti, tıkanıklık açma ve tüm tesisat arızalarında
 30–60 dakika içinde adresinize geliyoruz.
 </p>
- <!-- Sabit Alt Bar -->
-<div class="fixed-bar">
-<a href="tel:+905388695793" class="call">📞 ACİL ARA</a>
-<a href="https://wa.me/905388695793" class="whatsapp">💬 WHATSAPP</a>
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 9999; display: flex; flex-direction: column; gap: 16px;">
+
+<!-- 🔥 ACİL ARA -->
+<a href="tel:+905514947579"
+style="width:86px;height:86px;border-radius:50%;background:radial-gradient(circle at top,#ff4b4b,#9b0000);
+display:flex;flex-direction:column;align-items:center;justify-content:center;
+text-decoration:none;box-shadow:0 0 0 0 rgba(255,0,0,.7),0 14px 35px rgba(0,0,0,.5);
+animation:pulse 1.4s infinite;">
+<span style="font-size:28px;color:white;">📞</span>
+<span style="font-size:12px;font-weight:900;color:white;">ACİL</span>
+<span style="font-size:10px;font-weight:900;color:white;">ARA</span>
+</a>
+
+<!-- 🟢 WHATSAPP -->
+<a href="https://wa.me/905514947579" target="_blank"
+style="width:86px;height:86px;border-radius:50%;
+background:radial-gradient(circle at top,#6bff9a,#25D366);
+display:flex;align-items:center;justify-content:center;
+box-shadow:0 14px 35px rgba(0,0,0,.5);">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+style="width:46px;height:46px;">
+</a>
+
 </div>
- 
+
+<style>
+@keyframes pulse {
+0% {box-shadow:0 0 0 0 rgba(255,0,0,.7),0 14px 35px rgba(0,0,0,.5);}
+70% {box-shadow:0 0 0 20px rgba(255,0,0,0),0 14px 35px rgba(0,0,0,.5);}
+100% {box-shadow:0 0 0 0 rgba(255,0,0,0),0 14px 35px rgba(0,0,0,.5);}
+}
+</style>
+  
 </body>
 </html>
