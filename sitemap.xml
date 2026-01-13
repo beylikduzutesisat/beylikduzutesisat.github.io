@@ -1,25 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url><loc>https://beylikduzutesisat.github.io/</loc></url>
+<url>
+  <loc>https://beylikduzutesisat.github.io/</loc>
+</url>
 
-<url><loc>https://beylikduzutesisat.github.io/beylikduzu-su-tesisatcisi.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/beylikduzu-su-kacagi-tespiti.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/beylikduzu-gider-acma.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/beylikduzu-petek-temizleme.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/beylikduzu-kombi-tesisati.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/beylikduzu-tuvalet-acma.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/beylikduzu-logar-acma.html</loc></url>
+<url>
+  <loc>https://beylikduzutesisat.github.io/beylikduzu-su-tesisatcisi.html</loc>
+</url>
 
-<url><loc>https://beylikduzutesisat.github.io/adnan-kahveci-su-tesisatcisi.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/baris-mahallesi-su-tesisatcisi.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/beykent-mahallesi-su-tesisatcisi.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/cumhuriyet-mahallesi-su-tesisatcisi.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/dereagzi-mahallesi-su-tesisatcisi.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/gurpinar-mahallesi-su-tesisatcisi.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/kavakli-mahallesi-su-tesisatcisi.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/marmara-mahallesi-su-tesisatcisi.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/sahil-mahallesi-su-tesisatcisi.html</loc></url>
-<url><loc>https://beylikduzutesisat.github.io/yakuplu-mahallesi-su-tesisatcisi.html</loc></url>
+<url>
+  <loc>https://beylikduzutesisat.github.io/beylikduzu-su-kacagi-tespiti.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/beylikduzu-gider-acma.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/beylikduzu-cihazla-petek-temizleme.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/beylikduzu-kombi-tesisati.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/beylikduzu-tuvalet-acma.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/beylikduzu-logar-acma.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/adnan-kahveci-su-tesisatcisi.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/baris-mahallesi-su-tesisatcisi.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/beykent-mahallesi-su-tesisatcisi.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/cumhuriyet-mahallesi-su-tesisatcisi.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/dereagzi-mahallesi-su-tesisatcisi.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/gurpinar-mahallesi-su-tesisatcisi.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/kavakli-mahallesi-su-tesisatcisi.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/marmara-mahallesi-su-tesisatcisi.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/sahil-mahallesi-su-tesisatcisi.html</loc>
+</url>
+
+<url>
+  <loc>https://beylikduzutesisat.github.io/yakuplu-mahallesi-su-tesisatcisi.html</loc>
+</url>
 
 </urlset>
