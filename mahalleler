@@ -1,1 +1,81 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Beylikdüzü Mahalleleri | Su Tesisatçısı</title>
 
+<meta name="description" content="Beylikdüzü tüm mahallelerinde su tesisatçısı, su kaçağı tespiti, gider açma ve acil tesisat hizmetleri. Mahallenizi seçin.">
+
+<style>
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background:#f4f4f4;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    padding:30px;
+}
+
+h1{
+    text-align:center;
+    color:#0b3c5d;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px,1fr));
+    gap:20px;
+    margin-top:30px;
+}
+
+.box{
+    background:white;
+    padding:20px;
+    text-align:center;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+    transition:0.3s;
+}
+
+.box:hover{
+    transform:translateY(-5px);
+    box-shadow:0 10px 25px rgba(0,0,0,0.15);
+}
+
+.box a{
+    text-decoration:none;
+    color:#0b3c5d;
+    font-size:18px;
+    font-weight:bold;
+    display:block;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Beylikdüzü Mahalleleri – Su Tesisatçısı</h1>
+<p style="text-align:center;">
+Mahallenizi seçin, o bölgeye özel su tesisatçısı sayfasına gidin.
+</p>
+
+<div class="grid">
+
+    <div class="box"><a href="baris.html">Barış Mahallesi</a></div>
+    <div class="box"><a href="adnan-kahveci.html">Adnan Kahveci Mahallesi</a></div>
+    <div class="box"><a href="beykent.html">Beykent Mahallesi</a></div>
+    <div class="box"><a href="gürpinar.html">Gürpınar Mahallesi</a></div>
+    <div class="box"><a href="yakuplu.html">Yakuplu Mahallesi</a></div>
+    <div class="box"><a href="marmara.html">Marmara Mahallesi</a></div>
+
+</div>
+
+</div>
+
+</body>
+</html>
