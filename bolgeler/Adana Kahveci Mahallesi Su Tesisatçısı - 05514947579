@@ -2,52 +2,69 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<title>Adnan Kahveci Mahallesi Su Tesisatçısı | Beylikdüzü</title>
-<meta name="description" content="Adnan Kahveci Mahallesi su tesisatçısı. Kırmadan su kaçağı tespiti, tıkanıklık açma, petek temizliği ve kombi tesisatı. 7/24 Acil servis.">
+<title>Adnan Kahveci Mahallesi Su Tesisatçısı | Beylikdüzü 7/24 Acil</title>
+<meta name="description" content="Adnan Kahveci Mahallesi su tesisatçısı. Beylikdüzü Adnan Kahveci’de su kaçağı, gider açma, kombi, petek, lavabo ve acil tesisat hizmeti. 7/24 hizmet.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
-body {font-family: Arial; line-height:1.6; padding:15px;}
-h1{color:#b30000;}
-h2{color:#005bbb;}
-.call{background:#b30000;color:white;text-align:center;padding:15px;font-size:20px;margin:20px 0;border-radius:8px;}
-.box{background:#f5f5f5;border-left:5px solid #b30000;padding:15px;margin:15px 0;}
-ul{padding-left:20px;}
+body{font-family:Arial; margin:0; background:#f4f6f9}
+.container{max-width:1000px; margin:auto; padding:20px; background:#fff}
+h1{color:#b30000; font-size:28px; border-bottom:3px solid #b30000; padding-bottom:10px}
+h2{color:#0b4aa8; margin-top:30px}
+.box{background:#f0f5ff; padding:20px; border-left:6px solid #0b4aa8; margin:20px 0}
+.call{background:#b30000; color:#fff; text-align:center; padding:20px; font-size:22px; border-radius:10px; margin:30px 0}
+.call a{color:#fff; text-decoration:none; font-weight:bold}
+ul{line-height:1.8}
 </style>
 </head>
 
 <body>
 
+<div class="container">
+
 <h1>Adnan Kahveci Mahallesi Su Tesisatçısı</h1>
-<p>Beylikdüzü Adnan Kahveci Mahallesi’nde <strong>7/24 profesyonel su tesisat hizmeti</strong> sunuyoruz. Su kaçağı, tıkanıklık, petek ısınmama ve kombi sorunları aynı gün içinde garantili şekilde çözülür.</p>
 
-<div class="call">📞 0551 494 75 79 – Hemen Ara</div>
+<p>
+Beylikdüzü Adnan Kahveci Mahallesi’nde 7/24 profesyonel su tesisat hizmeti sunuyoruz. 
+Su kaçağı tespiti, tıkanıklık açma, kombi ve petek tesisatı, lavabo ve klozet tamiri 
+gibi tüm tesisat işlemleriniz hızlı ve garantili şekilde yapılır.
+</p>
 
-<h2>🔧 Adnan Kahveci Mahallesi’nde Verdiğimiz Hizmetler</h2>
-<ul>
-<li>🚰 Kırmadan su kaçağı tespiti</li>
-<li>🚽 Lavabo – tuvalet tıkanıklığı açma</li>
-<li>🧹 Gider temizleme ve logar açma</li>
-<li>🔥 Petek temizliği ve kalorifer tesisatı</li>
-<li>♨️ Kombi tesisatı ve bağlantıları</li>
-<li>🔧 Musluk, batarya ve sifon tamiri</li>
-</ul>
-
-<h2>📍 Neden Adnan Kahveci Mahallesi’nde Biz?</h2>
 <div class="box">
-Adnan Kahveci Mahallesi’ne özel mobil ekiplerimiz vardır. Su kaçağı, patlayan boru ve gider taşması gibi acil durumlarda <strong>30 dakika içinde adrese ulaşırız.</strong>
+<strong>📍 Hizmet Bölgesi:</strong> Adnan Kahveci Mahallesi – Beylikdüzü  
+<br><strong>⏱ Hizmet:</strong> 7 Gün 24 Saat Acil Servis  
+<br><strong>📞 Telefon:</strong> 0551 494 75 79
 </div>
 
-<p>Tüm Beylikdüzü genelinde mahalle bazlı ekip sistemiyle çalışır, hızlı ve kalıcı çözümler sunarız.</p>
+<h2>Adnan Kahveci’de Verdiğimiz Su Tesisat Hizmetleri</h2>
+<ul>
+<li>Su kaçağı tespiti (kırmadan)</li>
+<li>Lavabo, mutfak ve banyo gider açma</li>
+<li>Tuvalet ve klozet tıkanıklığı açma</li>
+<li>Kombi bağlantısı ve petek tesisatı</li>
+<li>Musluk, batarya ve sifon tamiri</li>
+<li>Logar ve ana gider açma</li>
+</ul>
 
-<h2>💧 Su Kaçağı Tespiti – Kırmadan</h2>
-<p>Adnan Kahveci Mahallesi’nde duvar ve fayansları kırmadan, kameralı ve akustik cihazlarla noktasal kaçak tespiti yapıyoruz. Gereksiz tadilat masrafı çıkmaz.</p>
+<h2>Neden Adnan Kahveci Mahallesi’nde Bizi Tercih Etmelisiniz?</h2>
+<p>
+Beylikdüzü Adnan Kahveci Mahallesi’nde yıllardır aktif olarak çalışan mobil ekiplerimiz, 
+en kısa sürede adresinize ulaşır. Cihazlı su kaçağı tespiti sayesinde duvarlar kırılmadan 
+sorun noktasını buluruz. Tüm işlerimiz garantili ve kalıcı çözümlüdür.
+</p>
 
-<h2>🚿 Tıkanıklık Açma Hizmeti</h2>
-<p>Lavabo, tuvalet, mutfak ve gider tıkanıklıkları robotlu makinelerle kırmadan açılır. Koku, taşma ve geri basma sorunları kalıcı olarak çözülür.</p>
+<h2>Adnan Kahveci Acil Su Tesisatçısı</h2>
+<p>
+Gece, hafta sonu veya tatil günü fark etmez. Adnan Kahveci Mahallesi’nde acil su tesisatçısı 
+olarak anında müdahale ediyoruz. Su patlağı, tıkanıklık ve kaçak gibi durumlarda hızlı destek alabilirsiniz.
+</p>
 
-<div class="call">📞 Adnan Kahveci Acil Tesisatçı – 0551 494 75 79</div>
+<div class="call">
+📞 <a href="tel:+905514947579">0551 494 75 79</a><br>
+Beylikdüzü Adnan Kahveci Acil Su Tesisatçısı
+</div>
 
-<p><a href="index.html">← Beylikdüzü Mahallelerine Dön</a></p>
+</div>
 
 </body>
 </html>
