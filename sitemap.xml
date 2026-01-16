@@ -2,34 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://beylikduzutesisat.github.io/index.html</loc>
-    <priority>1.0</priority>
+    <loc>https://beylikduzutesisat.github.io/</loc>
   </url>
 
   <url>
     <loc>https://beylikduzutesisat.github.io/hizmetler.html</loc>
-    <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://beylikduzutesisat.github.io/hakkimizda.html</loc>
-    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://beylikduzutesisat.github.io/iletisim.html</loc>
-    <priority>0.8</priority>
+    <loc>https://beylikduzutesisat.github.io/contact.html</loc>
   </url>
 
   <url>
     <loc>https://beylikduzutesisat.github.io/bolgelerimiz.html</loc>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- MAHALLE SAYFALARI -->
-  <url>
-    <loc>https://beylikduzutesisat.github.io/bolgeler/baris.html</loc>
-    <priority>0.8</priority>
   </url>
 
 </urlset>
